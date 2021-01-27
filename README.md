@@ -1,6 +1,7 @@
 # trabalho_mod4
 
-A new Flutter application.
+
+Project developed as an evaluation of a practical work of Bootcamp IGTI - Mobile Apps Developer
 
 ## Getting Started
 
